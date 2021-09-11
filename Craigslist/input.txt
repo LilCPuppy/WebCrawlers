@@ -1,0 +1,10 @@
+sender_email: sender@gmail.com
+reciever_emails: reciever_one@gmail.com, reciever_two@gmail.com 
+min_bedrooms:1
+max_bedrooms: 5
+central_zip_code: 94115 
+search_radius: 0.5
+max_price: 5000
+per_room_budget: 1700
+neighborhoods_to_avoid: chinatown, soma, richmond, mission bay
+inunit_laundry: 1
